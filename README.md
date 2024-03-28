@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm M D N V B MANIKANTA, a full-time full-stack  developer 👨‍💻 working remotely since 2024🚀</div>  
+### <div align="center">I'm M D N V B MANIKANTA, a Computer Science and Engineering Student  👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on Organic Food Tracability System Using BlockChain  
